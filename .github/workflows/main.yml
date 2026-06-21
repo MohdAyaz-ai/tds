@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: '23f3000476@study.iitm.ac.in'
+      - name: '23f3000476@dstudy.iitm.ac.in'
         run: echo "Hello, world!"
